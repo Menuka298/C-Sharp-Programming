@@ -1,0 +1,65 @@
+About this hotel
+Address & contact information
+Galle Rd, Hikkaduwa
+076 746 5009
+
+Freebies include parking, as well as breakfast served in 1 of 3 restaurants. Other amenities include 3 bars, 
+an outdoor pool and a kids' pool, plus a refined spa, a gym and a tennis court. Conference facilities are available.
+
+Check-in time: 2:00 PM
+Check-out time: 12:00 PM
+
+Amenities
+
+Pool Spa Parking free Wi-Fi free Airport shuttle Beach access
+
+Internet
+Wi-Fi
+free
+
+Children
+Kid-friendly
+
+Parking & transportation
+Parking
+free
+
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+
+Rooms
+Air conditioning
+Kitchen in some rooms
+
+Activities
+Beach access
+
+Pools
+No pools
+No hot tub
+
+Wellness
+No fitness center
+
+paw
+<i class="far fa-hiking"></i>
+route
+<i class="fas fa-beer"></i>
+wifi
+phone-alt
+phone
+bus-alt
+hot-tub
+swimmer
+taxi
+umbrella-beach
+swimming-pool
+ambulance
+<i class="fas fa-dumbbell"></i>
+
+hourglass-end
+hourglass-start
+book
+fire
+walking
+wifi
+ambulance
